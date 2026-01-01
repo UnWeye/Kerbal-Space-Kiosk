@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Kerbal Space Kiosk
+Comment=Minimal session for Kerbal Space Program
+Exec=/usr/local/bin/kerbal-space-kiosk/ksp-runner.sh
+Type=Application
+DesktopNames=KSP
