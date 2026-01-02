@@ -5,7 +5,7 @@
 ![GitHub License](https://img.shields.io/github/license/UnWeye/Kerbal-Space-Kiosk)
 
 
-Hey, do you want to play you super heavy moded install but your KDE Plasma, Gnome, etc is killing your performance? Well worry no more cuz Kerbal Space Kiosk is now here, discover a nice new enviroment made for you KSP requirements needs
+Hey, do you want to play you super heavy modded install but your KDE Plasma, Gnome, etc is killing your performance? Well worry no more cuz Kerbal Space Kiosk is now here, discover a nice new environment made for you KSP requirements needs
 
 ```text
     ____           __        ___________     __   
@@ -36,8 +36,8 @@ Hey, do you want to play you super heavy moded install but your KDE Plasma, Gnom
 
 Ok those were some notes, warnings, and legal stuff and now how to install it, well very simple actually, just:
 
-1. Downlad the latest release from the release page
-2. Veryfy that it is allowed to be executed
+1. Download the latest release from the release page
+2. Verify that it is allowed to be executed
 3. Let the script do its job
 4.ENJOY!
 
