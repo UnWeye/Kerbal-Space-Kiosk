@@ -50,6 +50,6 @@ Ok those were some notes, warnings, and legal stuff and now how to install it, w
 ```                                    
 
 
-This project is licensed under the [Apache Lisence 2.0](LICENSE).
+This project is licensed under the [GNU General Public License 3.0](LICENSE).
 
 
