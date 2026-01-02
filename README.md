@@ -1,5 +1,10 @@
-
 # Kerbal-Space-Kiosk
+
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/UnWeye/Kerbal-Space-Kiosk/latest/total)
+
+![GitHub License](https://img.shields.io/github/license/UnWeye/Kerbal-Space-Kiosk)
+
+
 Hey, do you want to play you super heavy moded install but your KDE Plasma, Gnome, etc is killing your performance? Well worry no more cuz Kerbal Space Kiosk is now here, discover a nice new enviroment made for you KSP requirements needs
 
 ```text
