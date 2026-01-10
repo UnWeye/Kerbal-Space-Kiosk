@@ -50,6 +50,8 @@ Ok those were some notes, warnings, and legal stuff and now how to install it, w
 ```                                    
 
 
-This project is licensed under the [GNU General Public License 3.0](LICENSE).
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Jose Manuel
+
 
 
