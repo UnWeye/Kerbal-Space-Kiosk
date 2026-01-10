@@ -4,3 +4,6 @@ Comment=Minimal session for Kerbal Space Program
 Exec=/usr/local/bin/kerbal-space-kiosk/ksp-runner.sh
 Type=Application
 DesktopNames=KSP
+
+# SPDX-License-Identifier: Apache-2.0 
+# Copyright 2026 Jose Manuel
