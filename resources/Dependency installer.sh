@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# SPDX-License-Identifier: Apache-2.0 
+# Copyright 2026 Jose Manuel
+
+
 cleanup() {
     echo "Cleaning up temporary files..."
     rm -rf "/tmp/ksk_temp_files"
