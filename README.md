@@ -39,7 +39,7 @@ Ok those were some notes, warnings, and legal stuff and now how to install it, w
 1. Download the latest release from the release page
 2. Verify that it is allowed to be executed
 3. Let the script do its job
-4.ENJOY!
+4. ENJOY!
 
 ```text
     __    _                         
