@@ -22,8 +22,8 @@ Hey, do you want to play you super heavy modded install but your KDE Plasma, Gno
 > [!WARNING]
 > This installer will modify system session files in `/usr/share/xsessions`.
 
-> [!NOTE]
-> This project is currently in active development for 2026.
+> [!WARNING]
+> This project is currently in active development for 2026. Here be dragons!
 
 <details>
 <summary>Click to read the full Disclaimer</summary>
